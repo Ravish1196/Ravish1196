@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravish Ranjan</h1>
 
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate full stack developer.</h3>
 <img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravish1196&label=Profile%20views&color=0e75b6&style=flat" alt="ravish1196" /> </p>
 
